@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485248505382",
+    "firebase_url": "https://react-paket.firebaseio.com",
+    "project_id": "react-paket",
+    "storage_bucket": "react-paket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485248505382:android:a15735c7d3fab8d5fdf8e7",
+        "android_client_info": {
+          "package_name": "com.helloreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485248505382-81mhmvai84emdo5ckmh8avm7e13of7li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf9uwbPe5aQopblQ7J_KuTH94-UskRClk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485248505382-81mhmvai84emdo5ckmh8avm7e13of7li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

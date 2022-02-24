@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963308127269",
+    "project_id": "react-native-test-app-ed4ad",
+    "storage_bucket": "react-native-test-app-ed4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963308127269:android:9f94e675fcd5d8d7e26bcc",
+        "android_client_info": {
+          "package_name": "com.demoappwebinstats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963308127269-dhamd9uqonodvr9a4lrkrh2j6htmk6ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqogvr4PRpuEA2tqCsSSirMywqZDC8kF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963308127269-dhamd9uqonodvr9a4lrkrh2j6htmk6ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
